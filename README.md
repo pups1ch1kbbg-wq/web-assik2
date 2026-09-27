@@ -1,6 +1,6 @@
 link: https://pups1ch1kbbg-wq.github.io/web-assik2/
 
-# Assignment 3: Advanced CSS (Flexbox & Grid)
+# Assignment 2: Advanced CSS (Flexbox & Grid)
 
 > **Course:** Front-End Development / Web Technologies  
 > **Student Name:** [Kairov Zhangir]
